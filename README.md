@@ -71,6 +71,7 @@ PharmaSpot is a cross-platform Point of Sale system designed for pharmacies and 
 - Clone this project.
 - Open terminal and navigate into the cloned folder.
 - Run ```npm install``` to install dependencies.
+- To install npm install yarn --save-dev  or npm install -g yarn
 - Run ```npm run start```.
 - Run ```gulp``` to bundle css and js assets
 - Run ```npm run test``` to run tests
